@@ -1,6 +1,5 @@
-# UNICC-NYU-AI-— Multilingual & Multimodal Media project
-2025 graduation project for my team
-# AETHRA AI
+# AETHRA AI-— Multilingual & Multimodal Media project
+2025 graduation project for my team own
 
 ### Multilingual & Multimodal AI Media Analysis Tool
 
