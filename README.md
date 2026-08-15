@@ -19,6 +19,13 @@ It supports all **six official United Nations languages**:
 
 > (https://drive.google.com/file/d/17Yy2Qjp8h1Qa45oEBTx10VHrNzHNGzLy/view?usp=drive_link)
 
+![System Architecture](assets/architecture.png)
+
+![AETHRA AI Homepage](assets/homepage.png)
+
+![Analysis Interface](assets/analysis.png)
+
+![Analysis Results](assets/results.png)
 
 ---
 
